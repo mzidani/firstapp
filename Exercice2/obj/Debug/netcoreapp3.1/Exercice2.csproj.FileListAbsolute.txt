@@ -1,0 +1,12 @@
+C:\Users\mzidani\source\repos\firstapp\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.exe
+C:\Users\mzidani\source\repos\firstapp\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.deps.json
+C:\Users\mzidani\source\repos\firstapp\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.runtimeconfig.json
+C:\Users\mzidani\source\repos\firstapp\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.runtimeconfig.dev.json
+C:\Users\mzidani\source\repos\firstapp\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.dll
+C:\Users\mzidani\source\repos\firstapp\Exercice2\bin\Debug\netcoreapp3.1\Exercice2.pdb
+C:\Users\mzidani\source\repos\firstapp\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.AssemblyInfoInputs.cache
+C:\Users\mzidani\source\repos\firstapp\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.AssemblyInfo.cs
+C:\Users\mzidani\source\repos\firstapp\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\mzidani\source\repos\firstapp\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.dll
+C:\Users\mzidani\source\repos\firstapp\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.pdb
+C:\Users\mzidani\source\repos\firstapp\Exercice2\obj\Debug\netcoreapp3.1\Exercice2.genruntimeconfig.cache
